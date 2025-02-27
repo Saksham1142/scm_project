@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature details added
+=======
+adding a new feature in project currently adding to branch
+>>>>>>> feature-update
